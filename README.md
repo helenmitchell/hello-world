@@ -1,3 +1,4 @@
 # hello-world
-just another repository
+Just another repository.
+
 This is an experimental blog.
